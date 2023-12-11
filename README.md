@@ -23,10 +23,22 @@ Modules
 
 <details>
 <summary>Tooling.</summary>
+
+- **Speeds & Feeds**
+
+    - Link to Video to understand calculation of Speed & Feed in machining
+         - [Speeds & Feeds Part 1](https://drive.google.com/file/d/1gvR8f9bnPZjLrWY_Jv1H3pN0ed1RpbqP/view?usp=drive_link)
+         - [Speeds & Feeds Part 2](https://drive.google.com/file/d/1DsCkQOSpyemhlnEyhX_-QOer0hD4TfbI/view?usp=drive_link)
 </details>
 
 <details>
 <summary>Coding.</summary>
+
+- **G & M Code**
+
+    - Link to G & M Code basics Video.
+         - [CNC Milling machine Coding](https://drive.google.com/file/d/1oBz52d4kjt5aYJ5fNEcydOtUPrNZSapI/view?usp=drive_link)
+  
 </details>
 
 <details>
