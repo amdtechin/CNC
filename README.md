@@ -5,6 +5,7 @@ Welcome! This document is a complete list fo all module for taking training for 
 Along with an overview of the module, along with technical information, useful resources, and links to videos can be found under each modules. 
 Students should be able to go though each module to get full details about this training.
 
+![CNC Milling Machine](images/cnc-machine.jpg.webp)
 
 Modules
 <details>
