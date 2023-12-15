@@ -224,26 +224,25 @@ In conclusion, the world of CNC milling tools is a fascinating and diverse lands
 Embark on your journey into the realm of CNC milling with confidence, armed with the knowledge and expertise to make informed decisions and achieve impeccable results. The power to create incredible components and bring your designs to life is in your hands. Happy milling!
 
 - **Frequency Asked Questions**
+  1. What cutting tools are used on a CNC machine?
 
-- What cutting tools are used on a CNC machine?
+     CNC machines use cutting tools such as end mills, drill bits, ball cutters, slitting saws, face mills, involute gear cutters, fly cutters, roughing end mills, and woodruff cutters to create parts with precise dimensions.
 
-CNC machines use cutting tools such as end mills, drill bits, ball cutters, slitting saws, face mills, involute gear cutters, fly cutters, roughing end mills, and woodruff cutters to create parts with precise dimensions.
+     These tools are designed to cut through a variety of materials, including metals, plastics, and wood. They are used in a variety of industries, including automotive, aerospace, and medical device manufacturing. CNC machines are highly precise and can produce parts with tight tolerances. They are also capable of producing complex shapes and intricate details.
 
-These tools are designed to cut through a variety of materials, including metals, plastics, and wood. They are used in a variety of industries, including automotive, aerospace, and medical device manufacturing. CNC machines are highly precise and can produce parts with tight tolerances. They are also capable of producing complex shapes and intricate details.
+  2. What do I need to start CNC milling?
 
-- What do I need to start CNC milling?
-  
-To begin CNC milling, you’ll need to plan and form your business into a legal entity, register for taxes, open a business bank account and credit card, and set up accounting. By taking the time to ensure that all of these steps are taken, you can make sure that your CNC milling machine and business is off to a strong start.
+     To begin CNC milling, you’ll need to plan and form your business into a legal entity, register for taxes, open a business bank account and credit card, and set up accounting. By taking the time to ensure that all of these steps are taken, you can make sure that your CNC milling machine and business is off to a strong start.
 
-- Which mill is the most commonly used cutting tool in CNC applications?
+  4. Which mill is the most commonly used cutting tool in CNC applications?
 
-The most commonly used cutting tool for CNC applications is the end mill. Its ease of use and versatility make it a great choice for machining operations, providing reliable results every time.
+     The most commonly used cutting tool for CNC applications is the end mill. Its ease of use and versatility make it a great choice for machining operations, providing reliable results every time.
 
-- What are the 3 types of milling cutters?
+  6. What are the 3 types of milling cutters?
 
-Milling cutters come in three primary types: the end mill, face mill and twist drill. Additionally, many other cutters are also available for specialized applications.
+     Milling cutters come in three primary types: the end mill, face mill and twist drill. Additionally, many other cutters are also available for specialized applications.
 
-With these tools, it is possible to efficiently shape and size metals to a desired specification.
+     With these tools, it is possible to efficiently shape and size metals to a desired specification.
 
 </details>
 
