@@ -107,6 +107,7 @@ CNC milling tools are the key players in the world of machining operations. Thes
 Among the vast array of CNC milling cutters, four main types stand out: end mills, twist drills, face mills, and ball nose mills. Each type serves a unique purpose and offers specific advantages to help you achieve the desired results in your projects. Let’s delve deeper into these three categories.
 
 - **End Mills**
+  
 ![End Mills](images/EndMill-2.png)
 
 End mills are the Swiss army knives of CNC milling tools. These versatile cutting tools are capable of creating holes, slots, and profiles on workpieces with diverse flutes and noses. They come in various types such as bull nose end mills, roughing end mills, V-bit end mills, and flat end mills (also called Square End Mills). The horizontal cutting edges on the side of an end mill are referred to as flutes, and their number influences the feed rate and cutting speed.
@@ -114,11 +115,13 @@ End mills are the Swiss army knives of CNC milling tools. These versatile cuttin
 When selecting end mills, it’s essential to consider the workpiece material, machining operation, and tool geometry. With the right end mill, you can achieve the perfect balance of performance and precision, ensuring the success of your project.
 
 - **Twist Drills**
+
 ![Twist Drills](images/TwistDrills-3.png)
 
 Twist drills are the most popular tools for making holes.
 
 - **Face Mills**
+
 ![Face Mills](images/FaceMills-4.png)
 
 Face mills are the go-to tools for creating flat surfaces on raw materials. These milling cutters have a single body with replaceable cutting inserts, ensuring optimal quality and a longer lifespan. Face mills are often compared to fly cutters, which are less expensive and can be fabricated in-house. However, face mills provide better precision and are more suitable for high-quality cutting.  Fly cutters, OTOH, can provide a nicer surface finish than most face mills.
@@ -126,6 +129,7 @@ Face mills are the go-to tools for creating flat surfaces on raw materials. Thes
 The choice between face mills and fly cutters depends on your specific needs, budget, and desired level of precision. Both tools have their pros and cons, but when it comes to creating flat surfaces with high precision, face mills and fly cutter can rise to the challenge.
 
 - **Ball Nose Mills**
+
 ![Ball Nose Mills](images/BallNoseMills-5.jpeg)
 
 Ball nose mills are the artists among CNC milling tools. Featuring a hemispherical end, they specialize in creating intricate shapes, slots, and pockets in a workpiece. These milling cutters excel in creating corner radiuses on perpendicular faces, allowing for smooth transitions and even contours to mill flat surfaces.
@@ -139,6 +143,7 @@ Every artist has a set of specialty tools for unique applications, and CNC milli
 Examples of specialty CNC milling tools include gear cutters, thread mills, and slitting saws. Let’s take a closer look at some of these specialty milling tools and their applications.
 
 - **Gear Cutters**
+
 ![Gear Cutters](images/GearCutters-6.jpeg)
 
 Gear cutters are the engineers of the CNC milling world, responsible for milling cutter fabricating gears that keep the wheels of industry turning. These specialty tools require a hobbing machine, and the type of hobbing machine depends on the number of gear teeth.
@@ -146,6 +151,7 @@ Gear cutters are the engineers of the CNC milling world, responsible for milling
 From automotive transmissions to heavy machinery, gears play a crucial role in various applications. Gear cutters ensure that these integral components are crafted to perfection, using the right type of hobbing machine for the job.
 
 - **Thread Mills**
+
 ![Thread Mills](images/ThreadMills-7.jpeg)
 
 Thread mills are the masters of cutting process of creating internal threads in workpieces. These specialty tools come in three types: roll form taps, cut taps, and thread mills. These types are employed on numerically controlled machining centers that are equipped with simultaneous, triaxial control, and helical interpolation features.
