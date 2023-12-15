@@ -100,7 +100,7 @@ Unleash your creativity and empower your projects with the knowledge of CNC mill
     - Tool coatings can also improve properties of CNC milling tools while maximizing their performance.
       
 - **Understanding CNC Milling Tools**
-
+![Understanding CNC Milling Machine](images/Tool-1.png)
 CNC milling tools are the key players in the world of machining operations. These cutting tools, employed in the milling process, remove material from fixed workpieces in a rotary motion. With a multitude of cutting tools available, CNC machines offer a virtually limitless range of possibilities. Familiarizing oneself with the functions of these tools is crucial before engaging with any CNC milling machine tools or shop.
 
 Among the vast array of CNC milling cutters, four main types stand out: end mills, twist drills, face mills, and ball nose mills. Each type serves a unique purpose and offers specific advantages to help you achieve the desired results in your projects. Let’s delve deeper into these three categories.
